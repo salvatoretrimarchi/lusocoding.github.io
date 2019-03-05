@@ -21,12 +21,16 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://nunobarreiro.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lusocoding
 github_username:  lusocoding
-
+linkedin_username: nunomvbarreiro
+include: ['_pages']
+kramdown: 
+  input: GFM # allow GitHub flavored Markdown https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+google_analytics: UA-109131329-1
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
