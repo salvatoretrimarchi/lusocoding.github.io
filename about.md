@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<p style="about-image">
+<p class="about-image">
     <img class="gravatar" src="http://www.gravatar.com/avatar/3df19b5c750d62ad3e773e1211ccd0e4?s=200">
 </p>
 
