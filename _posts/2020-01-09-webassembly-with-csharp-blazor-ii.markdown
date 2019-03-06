@@ -4,6 +4,7 @@ title:  "Web Assembly with C# II – Blazor Components"
 date:   2019-01-22 22:53:00 +0000
 categories: ASP.NET, Blazor, WebAssembly, C#, .NET Core
 permalink: 2019/01/web-assembly-with-c-ii-blazor-components.html
+comments: true
 ---
 > This post is part of a series that introduces WebAssembly with and Blazor, a web framework to build single page applications using C#, Razor and ASP.NET Core. If you would like to see the previous posts, please follow the below links. You can also follow the GitHub repository created for this series [here](https://github.com/lusocoding/wasm-blazor-intro).
 > 

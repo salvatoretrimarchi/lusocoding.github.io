@@ -4,6 +4,7 @@ title:  "WebAssembly with C# – Introduction to Blazor"
 date:   2019-01-09 10:53:00 +0000
 categories: ASP.NET, Blazor, WebAssembly, C#, .NET Core
 permalink: /2019/01/webassembly-with-c-introduction-to.html
+comments: true
 ---
 To better start this year I’ve decided to start learning more about [WebAssembly](https://webassembly.org/) and, because I do mostly work with .NET technologies nowadays, starting out with [Blazor](https://blazor.net/) was an obvious choice.
 

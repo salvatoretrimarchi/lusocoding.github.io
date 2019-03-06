@@ -6,6 +6,19 @@
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include google-analytics.html -%}
+  {%- include google-analytics.html -%}
   {%- endif -%}
+  <style type="text/css" media="screen">
+    img.gravatar {
+      border-radius: 50%
+    }
+
+    .about-image {
+      text-align: center
+    }
+
+    .footer-col.social-media-links {
+      float: right
+    }
+  </style>
 </head>
