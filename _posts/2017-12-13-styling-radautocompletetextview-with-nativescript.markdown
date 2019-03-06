@@ -3,6 +3,7 @@ layout: post
 title:  "Styling RadAutoCompleteTextView with Nativescript and Angular2"
 date:   2017-11-14 11:55:00 +0000
 categories: Cross Platform, TypeScript, NativeScript, Angular
+permalink: /2017/12/styling-radautocompletetextview-with.html
 ---
 Lately I’ve been working a lot with [Nativescript](https://www.nativescript.org/) to develop mobile apps able to run in Android and iOS devices.
 

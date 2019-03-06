@@ -3,6 +3,7 @@ layout: post
 title:  "Upgrading XRDP in Ubuntu 16.04"
 date:   2018-06-28 17:17:00 +0000
 categories: Linux, Ubuntu, Musings
+permalink: /2018/06/upgrading-xrdp-in-ubuntu-1604.html
 ---
 In the past week we were having some issues at work while trying to connect to some Ubuntu servers via RDP. Since we have Windows laptops, it’s very common for us to use this protocol to connect remotely to our linux machines so we always install XRDP on those servers every time we need to have a remote connection to a graphical interface.
 

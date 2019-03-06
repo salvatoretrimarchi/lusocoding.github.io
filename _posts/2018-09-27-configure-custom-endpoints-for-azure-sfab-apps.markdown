@@ -3,6 +3,7 @@ layout: post
 title:  "Configuring custom endpoint for Azure Service Fabric applications"
 date:   2018-09-27 09:57:00 +0000
 categories: Azure, Networks, Service Fabric, Cloud Computing
+permalink: /2018/09/configuring-custom-endpoint-for-azure.html
 ---
 When creating clusters in Azure Service Fabric, one of the options you have when configuring the node types is to define the custom endpoints needed for your Service Fabric applications.
 

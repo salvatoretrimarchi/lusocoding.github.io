@@ -3,6 +3,7 @@ layout: post
 title:  "Remote Debug of a Windows Server Core hosted application from VS 2017"
 date:   2018-12-04 14:51:00 +0000
 categories: Visual Studio, Windows Server, Debugging
+permalink: /2018/12/remote-debug-of-windows-server-core.html
 ---
 If you have an application hosted in a Windows Server 2016 Core machine and would like to debug it directly from Visual Studio 2017, then its very simple to configure remote debugging.
 

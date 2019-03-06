@@ -36,6 +36,7 @@ defaults:
       path: "assets/img"
     values:
       image: true
+permalink: /:year/:month/:slug:output_ext
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
